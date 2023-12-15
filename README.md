@@ -2,7 +2,7 @@
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3-column-preview-card-component-fwHuj5zDKd)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-react-aZmbVXkXnu)
 - Live Site URL: [Live site](https://wonderful-manatee-53d720.netlify.app/)
 
 ## Author
